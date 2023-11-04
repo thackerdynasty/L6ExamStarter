@@ -1,0 +1,1 @@
+DATABASE_URL = "postgres://ujmdsslt:R3h_JsHTj1ry_xN4DTZd9cXKJ1fNXHhW@bubble.db.elephantsql.com/ujmdsslt"

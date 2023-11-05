@@ -44,3 +44,9 @@
     font-style: oblique;
     font-weight: bold;
 }
+
+.error {
+    color: red;
+    font-style: oblique;
+    font-weight: bold;
+}
